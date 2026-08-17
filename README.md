@@ -15,7 +15,7 @@ O projeto pode ser testado e simulado no Wokwi:
 
 ## Bibliotecas
 
-# ESP32Servo
-# U8g2_for_Adafruit_GFX
-# Adafruit_SSD1306_72x40
-# MFRC522
+### ESP32Servo
+### U8g2_for_Adafruit_GFX
+### Adafruit_SSD1306_72x40
+### MFRC522

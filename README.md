@@ -19,7 +19,7 @@ utilizando ESP32-C3, RFID e servomotores.
 - Interface OLED
 - Monitoramento dos switches
 - Comunicação Wi-Fi
-- Integração futura com MQTT/HTTP
+- Integração com MQTT/HTTP
 
 ## Simulação
 
@@ -33,6 +33,7 @@ ESP32Servo
 U8g2_for_Adafruit_GFX
 Adafruit_SSD1306_72x40
 MFRC522
+PubSubClient
 
 ## Diagrama
 

@@ -33,3 +33,9 @@ ESP32Servo
 U8g2_for_Adafruit_GFX
 Adafruit_SSD1306_72x40
 MFRC522
+
+## Diagrama
+
+<p align="center">
+  <img src="docs/diagram.png" alt="Diagrama do circuito" width="600">
+</p>

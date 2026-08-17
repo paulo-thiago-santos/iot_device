@@ -1,11 +1,25 @@
-# iot_device
-Funcionamento do conjunto
+# IoT Device
 
-A ESP32-C3 atua como o controlador central. O RC522 identifica o cartão RFID, enquanto os switches fornecem informações ou comandos relacionados aos mecanismos físicos. Com base nessas entradas, o microcontrolador pode determinar se uma operação deve ser autorizada e acionar o servo correspondente.
+Sistema IoT para controle e rastreabilidade de acesso a compartimentos
+utilizando ESP32-C3, RFID e servomotores.
 
-O OLED fornece uma interface local para o operador, permitindo apresentar mensagens como "Aproxime o cartão", "Cartão autorizado", "Acesso negado" e informações sobre o estado dos compartimentos.
+## Hardware
 
-A utilização da ESP32-C3 também permite que o hardware seja posteriormente integrado a uma rede Wi-Fi, possibilitando o envio dos eventos para um servidor, banco de dados ou dashboard.
+- ESP32-C3 Super Mini
+- RC522 MFRC522
+- OLED 128×32 I²C
+- 2 servomotores
+- 2 switches
+
+## Funcionalidades
+
+- Identificação por RFID
+- Controle de acesso
+- Acionamento de servomotores
+- Interface OLED
+- Monitoramento dos switches
+- Comunicação Wi-Fi
+- Integração futura com MQTT/HTTP
 
 ## Simulação
 
@@ -15,7 +29,7 @@ O projeto pode ser testado e simulado no Wokwi:
 
 ## Bibliotecas
 
-### ESP32Servo
-### U8g2_for_Adafruit_GFX
-### Adafruit_SSD1306_72x40
-### MFRC522
+ESP32Servo
+U8g2_for_Adafruit_GFX
+Adafruit_SSD1306_72x40
+MFRC522

@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "WIFI";
-const char* password = "password";
+const char* ssid = "SENAI_IOT";
+const char* password = "senaiiot";
 
 void setup() {
   Serial.begin(115200);

@@ -11,21 +11,16 @@ utilizando ESP32-C3, RFID e servomotores.
 - 2 servomotores
 - 2 switches
 
-## Funcionalidades
-
-- Identificação por RFID
-- Controle de acesso
-- Acionamento de servomotores
-- Interface OLED
-- Monitoramento dos switches
-- Comunicação Wi-Fi
-- Integração com MQTT/HTTP
-
 ## Simulação
-
 O projeto pode ser testado e simulado no Wokwi:
 
-[Simular projeto no Wokwi](https://wokwi.com/projects/472546405284788225)
+- [RFID](https://wokwi.com/projects/472639873761104897)
+- [Display](https://wokwi.com/projects/472546405284788225)
+- [Servos](https://wokwi.com/projects/472639525944220673)
+- [Chaves](https://wokwi.com/projects/472639231350965249)
+- [Wi-Fi](https://wokwi.com/projects/472999404875551745)
+- [MQTT](https://wokwi.com/projects/472652823828913153)
+- [ALL](https://wokwi.com/projects/472546405284788225)
 
 ## Bibliotecas
 

@@ -15,7 +15,7 @@ utilizando ESP32-C3, RFID e servomotores.
 O projeto pode ser testado e simulado no Wokwi:
 
 - [RFID](https://wokwi.com/projects/472639873761104897)
-- [Display](https://wokwi.com/projects/472546405284788225)
+- [Display](https://wokwi.com/projects/472639738764274689)
 - [Servos](https://wokwi.com/projects/472639525944220673)
 - [Chaves](https://wokwi.com/projects/472639231350965249)
 - [Wi-Fi](https://wokwi.com/projects/472999404875551745)

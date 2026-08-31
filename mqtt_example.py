@@ -5,7 +5,7 @@ from datetime import datetime
 # CONFIGURAÇÃO
 # =====================================================
 
-MQTT_HOST = "192.168.0.119"
+MQTT_HOST = "localhost"
 MQTT_PORT = 1883
 
 ARQUIVO_IDS = "lista.txt"

@@ -21,6 +21,7 @@ O projeto pode ser testado e simulado no Wokwi:
 - [Wi-Fi](https://wokwi.com/projects/472999404875551745)
 - [MQTT](https://wokwi.com/projects/472652823828913153)
 - [ALL](https://wokwi.com/projects/472546405284788225)
+- [ALL + MQTT](https://wokwi.com/projects/479167608305942529)
 
 ## Bibliotecas
 
